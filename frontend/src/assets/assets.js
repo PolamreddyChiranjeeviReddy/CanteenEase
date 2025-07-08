@@ -88,37 +88,54 @@ export const assets = {
 
 export const menu_list = [
     {
-        menu_name: "Salad",
+        menu_name: "Rice Dishes",
         menu_image: menu_1
     },
     {
-        menu_name: "Rolls",
+        menu_name: "Curries & Gravies",
         menu_image: menu_2
     },
     {
-        menu_name: "Deserts",
+        menu_name: "Tiffins & BreakFast",
         menu_image: menu_3
     },
     {
-        menu_name: "Sandwich",
+        menu_name: "Snacks & Sweets",
         menu_image: menu_4
     },
     {
-        menu_name: "Cake",
+        menu_name: "Meals",
         menu_image: menu_5
     },
     {
-        menu_name: "Pure Veg",
+        menu_name: "Non-Veg Specials",
         menu_image: menu_6
     },
     {
-        menu_name: "Pasta",
+        menu_name: "Soups & Starters",
         menu_image: menu_7
     },
     {
-        menu_name: "Noodles",
+        menu_name: "Breads & Chapati Varieties",
         menu_image: menu_8
-    }]
+    },
+    // {
+    //     menu_name: "Beverages",
+    //     menu_image: menu_9
+    // },
+    // {
+    //     menu_name:"Desserts",
+    //     menu_image:menu_9
+    // },
+    // {
+    //     menu_name:"Pickles & Accompaniments",
+    //     menu_image:menu_10
+    // },
+    // {
+    //     menu_name:"Combo Meals/Mini Tiffins",
+    //     menu_image:menu_11
+    // }
+]
 
 export const food_list = [
     {
